@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif](https://futurelearning.irobokid.com/s/store/courses/5eeb0d5e0cf2a1c82f878582/cover.jpg?v=1))]
 <h1 align="center">Hi 👋, I'm Ruwan Duminda Rathnayaka</h1>
 <h3 align="center">Software Developer , Web developer , Visiting Lecture</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
